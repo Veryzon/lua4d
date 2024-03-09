@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="lua">
+      <UniqueIdentifier>{2df998c4-cab0-4f8a-bdd7-7e4593795c84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_nfo">
+      <UniqueIdentifier>{917c3026-95fd-4194-87db-b5db65e56fbc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\lua4d\lua.c">
+      <Filter>lua</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="luai.rc" />
+  </ItemGroup>
+</Project>
