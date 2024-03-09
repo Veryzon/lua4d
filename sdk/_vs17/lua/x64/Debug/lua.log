@@ -1,1 +1,2 @@
-﻿  lua.vcxproj -> E:\qwadro\lua4d\sdk\_vs17\system64d\lua.dll
+﻿lld-link : warning : /debug:fastlink unsupported; using /debug:full
+  lua.vcxproj -> E:\qwadro\lua4d\sdk\_vs17\system64d\lua.dll

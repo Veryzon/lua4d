@@ -1,1 +1,2 @@
-﻿  luai.vcxproj -> E:\qwadro\lua4d\sdk\_vs17\system32d\luai.exe
+﻿lld-link : warning : /debug:fastlink unsupported; using /debug:full
+  luai.vcxproj -> E:\qwadro\lua4d\sdk\_vs17\..\..\system32d\luai.exe
