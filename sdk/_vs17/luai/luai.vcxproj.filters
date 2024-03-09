@@ -9,7 +9,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\lua4d\lua.c">
+    <ClCompile Include="..\..\lua4d\src\lua.c">
       <Filter>lua</Filter>
     </ClCompile>
   </ItemGroup>

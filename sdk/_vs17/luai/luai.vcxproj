@@ -150,7 +150,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\lua4d\lua.c" />
+    <ClCompile Include="..\..\lua4d\src\lua.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
